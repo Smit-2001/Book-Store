@@ -3,5 +3,5 @@ Online Book store is an online web application where customer can purchase books
 
 ## Tech Stack
 HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
-React: Components, Props, Events, Hooks, Router, Axios
+React: Components, Props, Events, Hooks, Router, Axios, Material UI
 Context API: Store, Reducers, Actions
